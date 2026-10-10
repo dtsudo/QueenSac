@@ -1,0 +1,7 @@
+Stockfish is licensed under GPL 3.0.
+
+See stockfishSourceCode.zip for the license text and the source code.
+
+The source code was downloaded from https://github.com/nmrugg/stockfish.js.
+However, the other engine flavors were deleted to save space (since this game
+only uses the lite single-threaded engine).

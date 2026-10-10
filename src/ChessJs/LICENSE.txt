@@ -1,0 +1,5 @@
+chess.ts is licensed under the BSD 2-clause license.
+
+See lines 1-26 in chess.ts for the license text.
+
+The file was slightly modified to support this project's typescript settings.

@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"rootDir": "./src",
+		"outDir": "./built",
+		"target": "es2016",
+		"noImplicitReturns": true,
+		"noImplicitAny": true,
+		"noEmitOnError": true,
+		"noUncheckedIndexedAccess": true,
+		"strict": true,
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+		"noFallthroughCasesInSwitch": true
+	},
+	"include": [ "./src/**/*" ]
+}
